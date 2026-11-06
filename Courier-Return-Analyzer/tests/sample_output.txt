@@ -1,0 +1,251 @@
+
+====== COURIER RETURN-TO-SENDER ANALYZER ======
+1. Register Returned Parcel
+2. Display All Returns
+3. Search Parcel by ID
+4. Show Total Returns
+5. Return Reason Analysis
+6. Exit
+Enter Your Choice: 
+No Return Records Available.
+
+====== COURIER RETURN-TO-SENDER ANALYZER ======
+1. Register Returned Parcel
+2. Display All Returns
+3. Search Parcel by ID
+4. Show Total Returns
+5. Return Reason Analysis
+6. Exit
+Enter Your Choice: 
+No data to analyze yet.
+
+====== COURIER RETURN-TO-SENDER ANALYZER ======
+1. Register Returned Parcel
+2. Display All Returns
+3. Search Parcel by ID
+4. Show Total Returns
+5. Return Reason Analysis
+6. Exit
+Enter Your Choice: 
+Enter Parcel ID: Enter Sender Name: Enter Receiver Name: Enter Destination City: Enter Courier Partner: Enter Parcel Weight (kg, 0-100): Enter Delivery Attempts Made (1-3): Return Reasons:
+  1. Incorrect Address
+  2. Receiver Unavailable
+  3. Delivery Refused
+  4. Damaged in Transit
+  5. Other
+Enter Reason Code (1-5): Enter Booking Date (DD-MM-YYYY): Enter Return Date (DD-MM-YYYY): 
+Return Record Added Successfully!
+
+====== COURIER RETURN-TO-SENDER ANALYZER ======
+1. Register Returned Parcel
+2. Display All Returns
+3. Search Parcel by ID
+4. Show Total Returns
+5. Return Reason Analysis
+6. Exit
+Enter Your Choice: 
+Enter Parcel ID: 
+Duplicate Parcel ID! Registration Rejected.
+
+====== COURIER RETURN-TO-SENDER ANALYZER ======
+1. Register Returned Parcel
+2. Display All Returns
+3. Search Parcel by ID
+4. Show Total Returns
+5. Return Reason Analysis
+6. Exit
+Enter Your Choice: 
+Enter Parcel ID: Enter Sender Name: Enter Receiver Name: Enter Destination City: Enter Courier Partner: Enter Parcel Weight (kg, 0-100):   Enter a valid weight (0-100 kg):   Enter a valid weight (0-100 kg): Enter Delivery Attempts Made (1-3):   Enter attempts between 1 and 3: Return Reasons:
+  1. Incorrect Address
+  2. Receiver Unavailable
+  3. Delivery Refused
+  4. Damaged in Transit
+  5. Other
+Enter Reason Code (1-5): Enter Booking Date (DD-MM-YYYY):   Invalid date. Use DD-MM-YYYY: Enter Return Date (DD-MM-YYYY): 
+Return Record Added Successfully!
+
+====== COURIER RETURN-TO-SENDER ANALYZER ======
+1. Register Returned Parcel
+2. Display All Returns
+3. Search Parcel by ID
+4. Show Total Returns
+5. Return Reason Analysis
+6. Exit
+Enter Your Choice: 
+Enter Parcel ID: Enter Sender Name: Enter Receiver Name: Enter Destination City: Enter Courier Partner: Enter Parcel Weight (kg, 0-100): Enter Delivery Attempts Made (1-3): Return Reasons:
+  1. Incorrect Address
+  2. Receiver Unavailable
+  3. Delivery Refused
+  4. Damaged in Transit
+  5. Other
+Enter Reason Code (1-5): Enter Booking Date (DD-MM-YYYY): Enter Return Date (DD-MM-YYYY): 
+Return Record Added Successfully!
+
+====== COURIER RETURN-TO-SENDER ANALYZER ======
+1. Register Returned Parcel
+2. Display All Returns
+3. Search Parcel by ID
+4. Show Total Returns
+5. Return Reason Analysis
+6. Exit
+Enter Your Choice: 
+Enter Parcel ID: Enter Sender Name: Enter Receiver Name: Enter Destination City: Enter Courier Partner: Enter Parcel Weight (kg, 0-100): Enter Delivery Attempts Made (1-3): Return Reasons:
+  1. Incorrect Address
+  2. Receiver Unavailable
+  3. Delivery Refused
+  4. Damaged in Transit
+  5. Other
+Enter Reason Code (1-5): Enter Booking Date (DD-MM-YYYY): Enter Return Date (DD-MM-YYYY): 
+Return Record Added Successfully!
+
+====== COURIER RETURN-TO-SENDER ANALYZER ======
+1. Register Returned Parcel
+2. Display All Returns
+3. Search Parcel by ID
+4. Show Total Returns
+5. Return Reason Analysis
+6. Exit
+Enter Your Choice: 
+========== ALL RETURNED PARCELS ==========
+
+----------------------------------------
+Parcel ID      : 501
+Sender         : Amit Sharma
+Receiver       : Rohan Verma
+Destination    : Jalandhar
+Courier        : BlueDart
+Weight         : 2.75 kg
+Attempts Made  : 2
+Return Reason  : Incorrect Address
+Booking Date   : 12-10-2026
+Return Date    : 20-10-2026
+Status         : R
+----------------------------------------
+
+----------------------------------------
+Parcel ID      : 502
+Sender         : Neha Singh
+Receiver       : Pooja Gupta
+Destination    : Ludhiana
+Courier        : DTDC
+Weight         : 1.2 kg
+Attempts Made  : 2
+Return Reason  : Delivery Refused
+Booking Date   : 05-11-2026
+Return Date    : 09-11-2026
+Status         : R
+----------------------------------------
+
+----------------------------------------
+Parcel ID      : 503
+Sender         : Karan Mehta
+Receiver       : Sunil Rao
+Destination    : Amritsar
+Courier        : Delhivery
+Weight         : 5 kg
+Attempts Made  : 3
+Return Reason  : Receiver Unavailable
+Booking Date   : 01-11-2026
+Return Date    : 08-11-2026
+Status         : R
+----------------------------------------
+
+----------------------------------------
+Parcel ID      : 504
+Sender         : Ritu Jain
+Receiver       : Meena Kapoor
+Destination    : Patiala
+Courier        : DTDC
+Weight         : 0.8 kg
+Attempts Made  : 1
+Return Reason  : Incorrect Address
+Booking Date   : 02-11-2026
+Return Date    : 06-11-2026
+Status         : R
+----------------------------------------
+
+====== COURIER RETURN-TO-SENDER ANALYZER ======
+1. Register Returned Parcel
+2. Display All Returns
+3. Search Parcel by ID
+4. Show Total Returns
+5. Return Reason Analysis
+6. Exit
+Enter Your Choice: 
+Enter Parcel ID to Search: 
+Parcel Summary
+ID          : 502
+Receiver    : Pooja Gupta
+City        : Ludhiana
+Reason      : Delivery Refused
+
+----------------------------------------
+Parcel ID      : 502
+Sender         : Neha Singh
+Receiver       : Pooja Gupta
+Destination    : Ludhiana
+Courier        : DTDC
+Weight         : 1.2 kg
+Attempts Made  : 2
+Return Reason  : Delivery Refused
+Booking Date   : 05-11-2026
+Return Date    : 09-11-2026
+Status         : R
+----------------------------------------
+
+====== COURIER RETURN-TO-SENDER ANALYZER ======
+1. Register Returned Parcel
+2. Display All Returns
+3. Search Parcel by ID
+4. Show Total Returns
+5. Return Reason Analysis
+6. Exit
+Enter Your Choice: 
+Enter Parcel ID to Search: 
+Parcel ID Not Found.
+
+====== COURIER RETURN-TO-SENDER ANALYZER ======
+1. Register Returned Parcel
+2. Display All Returns
+3. Search Parcel by ID
+4. Show Total Returns
+5. Return Reason Analysis
+6. Exit
+Enter Your Choice: 
+Invalid Choice. Please Select 1 to 6.
+
+====== COURIER RETURN-TO-SENDER ANALYZER ======
+1. Register Returned Parcel
+2. Display All Returns
+3. Search Parcel by ID
+4. Show Total Returns
+5. Return Reason Analysis
+6. Exit
+Enter Your Choice: Enter a valid menu choice: 
+Total Returned Parcels: 4
+
+====== COURIER RETURN-TO-SENDER ANALYZER ======
+1. Register Returned Parcel
+2. Display All Returns
+3. Search Parcel by ID
+4. Show Total Returns
+5. Return Reason Analysis
+6. Exit
+Enter Your Choice: 
+========== RETURN REASON ANALYSIS ==========
+1. Incorrect Address : 2 (50%)
+2. Receiver Unavailable : 1 (25%)
+3. Delivery Refused : 1 (25%)
+4. Damaged in Transit : 0 (0%)
+5. Other : 0 (0%)
+Most Common Reason: Incorrect Address
+
+====== COURIER RETURN-TO-SENDER ANALYZER ======
+1. Register Returned Parcel
+2. Display All Returns
+3. Search Parcel by ID
+4. Show Total Returns
+5. Return Reason Analysis
+6. Exit
+Enter Your Choice: 
+Thank you for using Courier Return-to-Sender Analyzer made by Priyanshu Kumar!
